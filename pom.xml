@@ -31,13 +31,13 @@
 
 	<build>
 		<finalName>gamutkart</finalName>
+		<plugins>
 		<plugin>
-		<plugin>
-			<groupId>org.apache.maven.pulgins</groupId>
+			<groupId>org.apache.maven.plugins</groupId>
 			<artifactId>maven-war-plugin</artifactId>
 			<version>3.3.1</version>
-		</plugins>
 		</plugin>
+		</plugins>
 				
 	</build>
 	
